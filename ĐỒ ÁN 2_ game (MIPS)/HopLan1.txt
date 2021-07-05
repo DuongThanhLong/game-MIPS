@@ -1,0 +1,32 @@
+Chủ Nhật, 17/05/2020
+1. hàm xuất tb, xuất số lần đoán sai ( có biến cục bộ SoLanDoanSai)
+2. mã đề (random)
+3. đọc lấy chuỗi từ file theo tham số made
+4. Xuất đề dạng ẩn( đếm số ký tự r xuất ****....)
+Bạn đã gỡ một tin nhắn
+5. nhập ký tự trả về true false, ký tự vừa nhập, và các vị trí tương ứng nếu true
+6. hàm đúng
+7. hàm sai
+6.7. là của đoán ký tự
+8. đoán từ ( tự viết thêm xuất tb thắng thua, k phải xuất hình vẽ)
+9.xuất lựa chon đoán từ or ký tự
+
+5 phần
+A, 2 + 9
+B, 3 
+C, 7+8
+D, 6 
+E, 1 + 4 +5
+còn việc ghép hàm sẽ ưu tiên người làm phần B
+tuy nhiên, ai cũng có thể sẽ làm nó
+
+ deadline là 1 tuần kể từ thứ 3
+vì mai online đầy đủ mới chia được
+
+những gì cần bàn vào thứ 2, 18/05/2020
+1. 3 đồ án, 3 người đọc ghi file
+2. chia công việc (random, t sẽ nhớ người ngoài random) , đề Lâm đã đảm nhiệm
+3. Thống nhất các biến cục bộ (tên biến, kiểu dữ liệu) // VD: SoLanDoanSai .word, ChuoiKyTu....
+
+
+

@@ -1,0 +1,13 @@
+Họp lần 2:
+Lâm: hàm hoàn chỉnh
+Kiên: chưa loại trường hợp số 0
+Kim: còn hàm sai (một phần code đã chạy được khi ghép vs code của lâm)
+Long: chưa check code được.
+Mận: chờ hàm của kim và long để chạy
+
+deadline:
+27/5 up code hoàn chỉnh của từng phần
+30/5 ghép code toàn chương trình
+
+
+
